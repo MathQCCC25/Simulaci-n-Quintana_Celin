@@ -1,4 +1,4 @@
-Seguir los siguientes pasos cronoloóicamente:
+Seguir los siguientes pasos cronologicamente:
 1. Tener una cuenta de Google
 2. Dirigirse a Google Colaboratory
 3. Crear un documento nuevo
